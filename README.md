@@ -42,7 +42,7 @@
 ## 블록 다이어그램
 <!-- <img width="864" alt="스크린샷 2022-03-30 오전 3 32 08" src="https://user-images.githubusercontent.com/88064555/160681059-60287651-0453-441f-8509-bf327c3f328f.png"> -->
 
-<img src="https://user-images.githubusercontent.com/76546008/199517363-ed363795-2dea-4610-9d3e-736b280c2274.png" width="640"/>
+![image](https://github.com/mlnzlk/HCI_App_Progect/assets/93921790/6f8b09af-db51-4df2-907e-406b80eecf74)
 
 ### 역할 : 머신러닝을 이용한 영상 제스처 분류
 
@@ -109,12 +109,7 @@
 
 ---
 
-## Contirubutors
-- 김진만
-- [이정연](https://github.com/happyyeon)
-- [최동혁](https://github.com/donghyeok1)
 
-<!-- ---
 
 ## 폴더 설명
 
