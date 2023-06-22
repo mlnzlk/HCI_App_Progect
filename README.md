@@ -1,5 +1,4 @@
 # HCI_App_Progect
-# ViCon
 
 ## Touchless Youtube Control Application
 &nbsp;Vicon은 머신러닝을 이용해 사용자의 제스처에 따라 유튜브를 조작하는 애플리케이션이다.
